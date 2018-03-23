@@ -1,0 +1,14 @@
+1- No es necesario documentar lo que realiza cada función, ya que
+con el nombre nos expresa lo que nos va a devolver cuando la llamemos.
+Sin embargo, para el caso de la expresión regular fue necesario
+colocar un poco de documentación para facilitar a quien lo utilice.
+
+2- Las variables expresan los que debe contener.
+
+2- Para las palabras reservadas se creo una clase aparte, la cual
+es encargada de realizar la tarea de conocer si un enuncionado contiene
+una palabra reservada.
+
+3- Tener muy en cuenta el principio de KISS (Keep It Simple, Stupid) cuando
+desarrollemos.
+
